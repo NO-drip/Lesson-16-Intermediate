@@ -3,4 +3,4 @@ def total_cal(bill,tip):
     total = round(total,2)
     print(f"Please pay ${total}")
     
-total_cal (100,10)
+total_cal (100,15)
